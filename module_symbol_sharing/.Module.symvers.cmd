@@ -1,0 +1,1 @@
+savedcmd_/home/xppgx1/module_test/module_symbol_sharing/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/xppgx1/module_test/module_symbol_sharing/Module.symvers -T /home/xppgx1/module_test/module_symbol_sharing/modules.order -i Module.symvers -e 

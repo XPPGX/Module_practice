@@ -1,0 +1,1 @@
+savedcmd_/home/xppgx1/module_test/module_symbol_sharing/mod_a.mod := printf '%s\n'   mod_a.o | awk '!x[$$0]++ { print("/home/xppgx1/module_test/module_symbol_sharing/"$$0) }' > /home/xppgx1/module_test/module_symbol_sharing/mod_a.mod
