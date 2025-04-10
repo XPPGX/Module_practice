@@ -1,1 +1,0 @@
-savedcmd_/home/xppgx1/module_test/module_parameter_modify/mod_para_modify.mod := printf '%s\n'   mod_para_modify.o | awk '!x[$$0]++ { print("/home/xppgx1/module_test/module_parameter_modify/"$$0) }' > /home/xppgx1/module_test/module_parameter_modify/mod_para_modify.mod

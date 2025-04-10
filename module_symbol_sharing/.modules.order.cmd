@@ -1,1 +1,0 @@
-savedcmd_/home/xppgx1/module_test/module_symbol_sharing/modules.order := {   echo /home/xppgx1/module_test/module_symbol_sharing/mod_a.o;   echo /home/xppgx1/module_test/module_symbol_sharing/mod_b.o; :; } > /home/xppgx1/module_test/module_symbol_sharing/modules.order

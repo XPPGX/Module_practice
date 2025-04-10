@@ -1,1 +1,0 @@
-/home/xppgx1/module_test/module_symbol_sharing/mod_b.o

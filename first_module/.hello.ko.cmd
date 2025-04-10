@@ -1,1 +1,0 @@
-savedcmd_/home/xppgx1/module_test/hello.ko := ld -r -EL  -maarch64elf -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T arch/arm64/module.lds -o /home/xppgx1/module_test/hello.ko /home/xppgx1/module_test/hello.o /home/xppgx1/module_test/hello.mod.o;  true
